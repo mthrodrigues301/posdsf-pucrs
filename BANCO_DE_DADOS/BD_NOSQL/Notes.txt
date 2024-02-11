@@ -1,0 +1,211 @@
+SGBDS: um Sistema de 
+Gerenciamento de Banco de Dados é 
+um software que incorpora as funções 
+de definição, recuperação e alteração 
+de dados em um banco de dados.
+
+Relacionamentos: Dentre os relacionamentos temos os tipos:
+1 para N: tem uma categorização especial, 
+podendo ser não identificadores ou 
+identificadores. O objeto pode ter uma 
+existência associada ou não com outro 
+objeto;
+N para N: são representados como uma 
+ligação entre os relacionamentos. Podem 
+possuir atributos, com cada instância N 
+para N representando uma associação entre 
+pedido e produto
+
+1. É o relacionamento que possui 
+dois tipos, identificadores e não 
+identificadores:
+	R: 1 para N
+	
+Entidades/classes associativas 
+As entidades/classes associativas 
+representam as associações entre instâncias 
+de relacionamentos N para N, com outras 
+entidades/classes.
+Outra abstração são os relacionamentos 
+unários, aqueles que envolvem somente uma 
+entidade/classe. Ou seja, as instâncias de 
+uma entidade estabelecem relacionamentos 
+com instâncias da mesma entidade.
+
+Hierarquias de generalização
+As hierarquias de especialização permitem 
+reunir em classes/entidades mais genéricas 
+os atributos e os relacionamentos mais 
+comuns a várias entidades/classes. Usa-se 
+de exemplo pessoa jurídica e pessoa física, 
+pois ambas são clientes. Quando se juntam 
+os atributos de uma pessoa física e de uma 
+pessoa jurídica, transformam-se os atributos 
+das duas pessoas na classe CLIENTE, fazendo 
+uma generalização. As especializações podem 
+ser totais ou parciais, e é dita exclusiva 
+quando não se pode estar em duas classes 
+especializadas ao mesmo tempo.
+
+2. Qual classe não é capaz de capturar 
+todos os perfis de determinada 
+categoria?
+	R: Classe especializada
+	
+3. Refere-se à definição de restrição de 
+integridade:
+	R: Contraints
+
+4. Estabelecem a obrigatoriedade de 
+que uma ou mais colunas de uma 
+tabela sejam únicas em conjunto:
+	R: Chaves alternativas
+
+Surrogate keys
+Para escolher os valores das chaves primárias, 
+o recomendável é a utilização de chaves 
+artificiais, as surrogate keys. O professor 
+Eduardo apresenta três opções de criação de 
+surrogate keys.
+
+Normalização de dados
+A normalização de dados é o processo pelo 
+qual cria-se um modelo relacional de dados 
+pela aplicação de formas normais a dados 
+brutos, ditos não normalizados, visando 
+obter dados livres de efeitos colaterais de 
+atualizações. É baseada em um conceito de 
+forma normal, uma regra a ser obedecida 
+a uma tabela que seja considerada “bem 
+protegida”.
+Primeiro, devemos identificar quais atributos 
+identificam o fato, e então remover a 
+multi valoração, mantendo o vínculo com 
+o identificador original. Eliminam-se as 
+dependências funcionais parciais, mantendo o 
+vínculo com o identificador. 
+
+5. “Uma transação processada nunca 
+colocará em risco a integridade 
+estrutural do banco de dados”. A 
+afirmação se refere ao conceito de:
+	R: Concistencia
+	
+6. Refere-se a um agrupamento de 
+unidades computacional:
+	R: Cluster
+
+Hash table: é uma estrutura de dados 
+especial que associa chaves de 
+pesquisa a valores, com o objetivo de, 
+a partir de uma chave simples, fazer 
+uma busca rápida e obter o valor 
+desejado
+
+Failover: significa tolerância a falhas. 
+Quando um sistema, servidor ou outro 
+componente de hardware ou software 
+fica indisponível, um componente 
+secundário assume operações sem 
+que haja interrupção nos serviços.
+
+7. Como se chama um banco de dados 
+sem esquema?
+	R: Schemaless
+
+8. A escalabilidade do MongoDB 
+começa com a aplicação do cliente 
+sendo lida e escrita pelo:
+	R: Roteador
+
+Consistencia eventual: é um 
+modelo de consistência utilizado 
+na computação distribuída com 
+a finalidade de se atingir a alta 
+disponibilidade, garantindo-se 
+informalmente que, se nenhuma nova 
+atualização de um dado for realizada, 
+posteriormente, todos os acessos a 
+esse dado retornarão o último valor 
+atualizado
+
+9. Qual a estrutura da arquitetura do 
+Cassandra DB?
+	R: Anel
+	
+10. Assinale a alternativa que reflete 
+uma consequência do aumento 
+da disponibilidade de dados no 
+Cassandra DB:
+	R: Consistencia menor
+
+Redis: por que usar?
+O Redis é uma tecnologia de banco de 
+chave-valor open source, porém tem algumas 
+features que só funcionam na versão premium. 
+Com um excelente throughput de escrita e 
+leitura, tem um esquema de dados flexível 
+com uma linguagem simples, fazendo com 
+que haja uma integração com muitos clientes. 
+É facilmente escalável e suporta adição de 
+módulos com funcionalidades específicas, 
+fazendo com que o Redis seja visto como um 
+banco de cache. 
+
+Paralelismo: quando as tarefas 
+de um programa são executadas 
+em simultâneo em mais de um 
+processador
+
+11. Quando os processos disputam um 
+ou mais elementos computacionais 
+denominamos:
+	R: Concorrencia
+	
+12. Qual módulo do Redis dá a 
+funcionalidade de indexar e realizar 
+buscas por elementos?
+	R: Redis Search
+	
+13. A natureza efêmera do Redis pode 
+gerar:
+	R: Downtime
+
+Redis Stacking: uma extensão do 
+Redis que adiciona modelos de 
+dados modernos e mecanismos 
+de processamento para fornecer 
+uma experiência completa ao 
+desenvolvedor
+
+Janela de inconsistência: um período 
+entre a atualização e o momento 
+em que é garantido que qualquer 
+observador sempre vai olhar o valor 
+atualizado
+
+Neo4j
+O Neo4j faz parte dos bancos orientados 
+a grafos. Tem como principal característica 
+facilitar a busca de caminhos com 
+relacionamentos. Com um suporte a 
+transações ACID, ele provém do protocolo de 
+comunicação REST, tendo uma base de dados 
+flexível, uma performance boa em situações 
+de conexões/relacionamentos entre dados, 
+e, em comparação com outros bancos, sua 
+consulta é mais eficiente.
+
+14. Conceito que traz as informações de 
+cada nodo:
+	R: Aspects
+
+15. NÃO é um uso indicado do banco de 
+dados Neo4:
+	R: Escritas massivas
+
+Two-phase commit: é um algoritmo 
+distribuído que coordena todos os 
+processos que participam de uma 
+transação atômica distribuída para 
+confirmar ou abortar a transação

@@ -1,0 +1,87 @@
+Banco de dados:
+O banco de dados é uma coleção de dados, coerentes, que sejam correlacionáveis e 
+gerem sentido, com finalidades específicas e possuindo usuários com intenção de manipular e analisar esses dados.
+
+Um Sistema de Gerenciamento de Banco de Dados vai gerenciar os dados permitindo não só criar mas, também, administrar esses 
+dados. Os metadados são as informações descritivas de um banco de dados.
+
+1. É um processo que deve ser confiável, seguro e rastreável:
+	R: Levantamento de requisitos
+
+2. Qual o tipo de dado que armazena um texto variável?
+	R: VARCHAR
+
+LGPD: A Lei Geral de Proteção de Dados Pessoais, Lei nº 13.709/2018, é 
+a legislação brasileira que regula as atividades de tratamento de dados 
+pessoais.
+
+Cardinalidade: É um dos princípios fundamentais sobre o relacionamento de um banco de dados relacional, 
+nela são definidos o graus de relação entre duas entidades ou tabelas.
+
+3. Uma coisa palpável ou não palpável, física ou conceitual é conhecida como
+	R: Entidade
+
+4. Garante a restrição da integridade da entidade
+	R: Chave Primaria
+	
+5. É uma constaint que não permite  dados repetidos:
+	R: Unique
+
+DDL: Linguagem de definição de dados é uma linguagem de computador usada para a definição de 
+estruturas de dados. 
+
+DML: Linguagem de Manipulação de Dados é uma família de linguagens 
+de computador utilizada para a recuperação, inclusão, remoção e modificação de informações em 
+bancos de dados.
+
+6. Qual o método base que declara o mapeamento dos objetos dentro do banco de dados?
+	R: Declarative base
+	
+7. Qual o comando utilizado para deixar uma mensagem caso ocorra algum problema?
+	R: Except ValueError
+
+Lawrence Gordon Tesler: Foi um cientista da computação que trabalhou no campo da interação 
+homem-computador. Notabilizou-se pela invenção dos recursos “Copiar, Cortar e Colar” e “Buscar/Substituir”.
+	
+8. É o processo utilizado para confirmação dos dados:
+	R: Commit
+	
+9.Qual é o método que vai consultar os dados lá no banco de dados de ocorrências de acordo com o 
+requisito
+	R: Query
+
+10. O que significa Label?
+	R: Rótulo
+
+Classe associativa: Uma classe associativa tem propriedades de associação e a associação 
+correspondente tem propriedades de classe
+
+Edgar Frank Codd: Foi um matemático, professor adjunto de matemática na Universidade 
+do Tennessee e trabalhou como programador matemático na sede da IBM em Nova York a partir de 1949.
+
+11. É o conjunto de valores válidos para cada atributo
+	R: Dominio
+
+12. Denomina-se a forma como um objeto da realidade pode ser representado
+	R: Relação
+
+13. Toda chave primária é também um:
+	R: NOT NULL
+
+14. O que significa Constraint?	
+	R: Restrição
+	
+JOIN: O JOIN permite as junções que possibilitam a consulta de dados de mais de uma tabela pela relação entre chaves estrangeiras e 
+chaves primárias.
+
+INNER JOIN é uma cláusula que permite a junção entre duas ou mais tabelas, desde que haja entrelaçamento entre todas. O 
+OUTER JOIN ou FULL JOIN, retorna todos os registros de ambas as tabelas.
+
+O produto cartesiano ou CROSS JOIN é uma operação da teoria de conjuntos. Executar um produto cartesiano entre duas tabelas 
+resulta na combinação de todas as linhas (registros) da primeira tabela com todas as linhas da segunda tabela
+
+Teoria de conjuntos: Ramo da lógica matemática que estuda conjuntos (coleções de elementos). Em geral, é 
+investigada com elementos que são relevantes para os fundamentos da matemática.
+
+15. Qual o comando utilizado para pegar todas as funções NULL e converter para 0?
+	R: NVL
