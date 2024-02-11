@@ -1,0 +1,191 @@
+Model-View-Controller (MVC)
+Model: esta é a parte do nosso aplicativo 
+que gerencia o banco de dados e 
+todas as operações relacionadas aos 
+dados. Ele cuida do armazenamento, 
+recuperação e manipulação dos dados 
+essenciais para o funcionamento da 
+aplicação
+View: a “visão” engloba tudo o que 
+é visível para o usuário. Em termos 
+simples, são as páginas e elementos 
+visuais que são apresentados ao cliente. 
+A visão é responsável por garantir 
+uma experiência agradável ao usuário, 
+cuidando da forma como os dados são 
+apresentados.
+Controller: o “controlador” é o cérebro 
+da nossa aplicação. Ele contém a lógica 
+que coordena a interação entre o modelo e a visão. 
+No controlador, 
+chamamos os modelos para obter 
+dados, processamos esses dados e os 
+disponibilizamos para as visões para 
+que sejam entregues aos usuários. Além 
+disso, o controlador é o local onde 
+desenvolvemos funcionalidades, as 
+expandimos e realizamos a manutenção 
+da aplicação.
+Os principais benefícios da utilização do 
+MVC são:
+• Separação de responsabilidade;
+• Reutilização de código;
+• Facilidade de manutenção;
+• Escalabilidade;
+• Facilidade de colaboração;
+• Facilidade de migração;
+• Testabilidade e Documentação.
+
+
+Programação assíncrona
+A programação assíncrona é um 
+paradigma de programação que permite 
+que uma aplicação execute tarefas em 
+paralelo, em vez de sequencialmente, o 
+que é comum em programação síncrona. 
+Isso significa que, em vez de esperar que 
+uma tarefa seja concluída antes de iniciar 
+outra, as tarefas podem ser executadas 
+simultaneamente ou em segundo plano, 
+permitindo que oprograma continue sua 
+execução principal sem bloquear.
+
+1. Qual é a função principal do padrão 
+MVC?
+R: Separar o código em três grandes agrupamentos
+
+Programação reativa
+A programação reativa é um paradigma de 
+programação que se concentra na criação 
+de sistemas e aplicativos que respondem 
+automaticamente a mudanças de estado 
+e eventos. Ela é particularmente útil para 
+desenvolver aplicativos em tempo real, 
+como aplicativos da web que exigem 
+atualizações em tempo real com base 
+em ações do usuário ou em eventos de 
+sistema.
+Os aplicativos cada vez mais tendem 
+a atuar conforme as necessidades do 
+usuário. Para isso, fazemos uso de algumas 
+tecnologias na programação reativa:
+• Observáveis e observadores 
+(observable/observer);
+• Bibliotecas de programação reativa;
+• Fluxos de eventos;
+• Assinatura e cancelamento;
+• Tratamento de erros;
+• Aplicações em tempo real;
+• Integração com bancos de dados;
+• Aplicações assíncronas de alto 
+desempenho concorrentes;
+• Testes unitários;
+• Padrões de design reativos;
+• Operadores reativos.
+
+Node Package Manager (npm): É 
+uma ferramenta do Node.js para o 
+gerenciamento de pacotes. Essa 
+utilidade auxilia na instalação 
+e desinstalação de pacotes, 
+gerenciamento das versões e 
+gerenciamento de dependências 
+necessárias para executar um projeto.
+
+Request e response
+O protocolo HTTP é baseado em troca 
+de informações através de request e 
+response. O Rest permite processar 
+as requisições HTTP através de 
+verbos (GET, POST, DELETE, PUT, PATH).
+
+2. O protocolo HTTP é baseado em 
+troca de informações através de:
+R: PENDENTE
+
+
+3. O que caracteriza a programação 
+reativa?
+R: Responde automaticamenta a mudanças de estado e eventos
+
+4.É um software de código aberto 
+usado para implantar aplicativos 
+dentro de containers virtuais. 
+R: Docker
+
+Search Engine Optimization (SEO): 
+É um conjunto de técnicas que tem 
+como objetivo posicionar uma ou mais 
+páginas de destino entre os melhores 
+resultados dos mecanismos de busca.
+
+Nest.Js
+O Nest.Js é um framework Node.js 
+progressivo para construir aplicativos do 
+lado do servidor eficientes, confiáveis 
+e escaláveis. É uma plataforma recente, 
+sendo uma das principais soluções que 
+facilita que as páginas tenham relevância 
+em buscas. Tende a trabalhar em um 
+único servidor o lado cliente e o lado do 
+servidor.
+
+5. O protocolo HTTP é baseado em 
+troca de informações através de:
+R: Request e Response
+
+SSR, ou Server-Side Rendering, significa 
+renderização do lado do cliente. Existem 
+frameworks, como o Angular e o React, que 
+permitem a renderização do lado do cliente 
+através do browser
+
+Providers
+os providers, que são os 
+services. Considerando uma arquitetura MVC, 
+têm-se os providers acessando os serviços, 
+bibliotecas, middleware e frameworks 
+externos, ou seja, os providers são quem se 
+conecta com outros componentes em prol 
+de prover alguma funcionalidade dentro da 
+arquitetura.
+
+Modules
+Em uma arquitetura de software, existe 
+a tendência de não só quebrar o código, 
+o projeto, em múltiplas camadas, mas 
+quebra-se também em múltiplos módulos 
+para facilitar o re-uso de código, o uso 
+de boas práticas, então o módulo é um 
+outro nível de desacoplamento, então os 
+módulos são mais horizontais, enquanto 
+as camadas são mais verticais
+
+Middlewares
+O middleware faz a intermediação de acesso 
+entre duas entidades e é muito utilizado, 
+hoje em dia, em cloud computing, pois 
+dentro dos códigos têm componentes que 
+desejam se comunicar com componentes 
+da cloud.
+
+6. De acordo com Xavier, o REST API 
+está associado a um:
+R: Controller
+
+Pipes
+O Pipe é um mecanismo utilizado em 
+arquitetura de software, cujo seu propósito 
+é criar uma forma de fazer a conexão de 
+uma entrada com uma saída, no caso, de 
+um programa para outro. De acordo com 
+o professor, o Pipe é muito utilizado em 
+streaming de dados quando se quer, ao 
+longo do fluxo de dados, começar a fazer 
+transformações, pegando algo que que 
+chega na entrada e jogando na saída de 
+forma diferente.
+
+7. Qual é o propósito do Pipe, de 
+acordo com o professor Xavier
+R: Criar uma forma de fazer uma conexão de umna entrada com uma saida
