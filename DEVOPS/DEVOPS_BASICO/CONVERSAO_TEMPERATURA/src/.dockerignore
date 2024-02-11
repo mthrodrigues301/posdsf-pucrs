@@ -1,0 +1,2 @@
+## adicionar arquivos que nao devem ser copiados para a imagem
+node_modules

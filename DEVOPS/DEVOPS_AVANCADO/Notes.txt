@@ -1,0 +1,500 @@
+O que é DevOps?
+O DevOps é a combinação de filosofias 
+culturais, práticas e ferramentas que 
+aumentam a capacidade de uma empresa 
+de distribuir aplicativos e serviços em alta 
+velocidade: otimizando e aperfeiçoando 
+produtos em um ritmo mais rápido do 
+que o das empresas que usam processos 
+tradicionais de desenvolvimento de software 
+e gerenciamento de infraestrutura.
+
+DevOps não tem uma metodologia total que o defina.
+
+Modelo Cascata: o modelo cascata — 
+também conhecido como processo 
+Waterfall — é uma metodologia de 
+desenvolvimento de software surgida 
+na década de 1970, criada por 
+Winston Walker Royce. Sua principal 
+característica é a divisão das tarefas 
+em etapas predeterminadas, que são 
+executadas de forma sequencial.
+
+AWS significa Amazon Web Services e é
+uma plataforma de serviços em nuvem 
+fornecida pela Amazon. Ela oferece uma 
+ampla variedade de serviços em nuvem, 
+incluindo computação, armazenamento, 
+bancos de dados, análise, segurança, Internet 
+das coisas (IoT), inteligência artificial e muito 
+mais. É uma das plataformas em nuvem 
+mais populares e utilizadas no mundo, com 
+milhões de clientes em todo o mundo, desde 
+pequenas startups até grandes corporações.
+
+1. Qual das práticas mencionadas 
+abaixo não faz parte do DevOps?
+R: Manutenção de software
+
+Métodos ágeis: os métodos ágeis 
+servem para adaptar o modo de 
+trabalho às condições de um projeto, 
+garantindo maior flexibilidade e 
+rapidez à sua execução. Eles são 
+fruto da Cultura Ágil, conjunto de 
+ideias e práticas que visam a acelerar 
+a inspeção, adaptação, correção 
+e entrega, atendendo assim às 
+demandas do cliente e da empresa.
+
+2.Quando o assunto sobre DevOps 
+começou a ser discutido? 
+R: 2009
+
+CloudWatch: o Amazon CloudWatch 
+coleta e visualiza logs, métricas e 
+dados de eventos em tempo real em 
+painéis automatizados para otimizar 
+sua infraestrutura e manutenção de 
+aplicações.
+
+ECR: O Amazon Elastic Container 
+Registry (Amazon ECR) é um serviço 
+de registro de imagem de contêiner, 
+seguro, escalável e confiável, 
+gerenciado pela AWS. O Amazon 
+ECR oferece suporte a repositórios 
+privados com permissões baseadas 
+em recursos usando o AWS IAM.
+
+AWS CLI, A AWS Command Line Interface (AWS 
+CLI) é uma ferramenta unificada para o 
+gerenciamento de seus produtos da AWS. 
+Com apenas uma ferramenta para baixar 
+e configurar, você poderá controlar vários 
+produtos da AWS pela linha de comando 
+e automatizá-los usando scripts.
+
+Serverless: a computação sem 
+servidor é um modelo de execução 
+de computação em nuvem em que 
+o provedor de nuvem aloca recursos 
+de máquina sob demanda, cuidando 
+dos servidores em nome de seus 
+clientes. 
+
+CI e CD é Continuous Integration 
+e Continuous Deploy
+
+Cypress: é uma ferramenta de teste 
+de front-end para aplicativos da web. 
+O Cypress é executado no Windows, 
+Linux e macOS. O aplicativo Cypress 
+é um software de código aberto 
+lançado sob a licença MIT, enquanto 
+o Cypress Cloud é um aplicativo da 
+web. O cipreste foi comparado ao 
+selênio.
+
+3.Coleta e visualiza logs, métricas e 
+dados de eventos em tempo real. 
+Estamos falando de:
+R: CloudWatch
+
+Load Balance: todo o hardware tem 
+o seu limite, e muitas vezes o mesmo 
+serviço tem que ser repartido por 
+várias máquinas, sob pena de se 
+tornar congestionado. Estas soluções 
+podem-se especializar em pequenos 
+grupos sobre os quais se faz um 
+balanceamento de carga: utilização 
+do CPU, de armazenamento, ou de 
+rede.
+
+4. De acordo com o conteúdo visto 
+na primeira parte a aula, o DevOps 
+combina qual duas grandes áreas?
+R: Desenvolvimento e operações
+
+5. É uma ferramenta unificada para o 
+gerenciamento de seus produtos da 
+AWS. Estamos falando de:
+R: AWS CLI
+
+Container: os containers 
+proporcionam uma maneira padrão 
+de empacotar código, configurações 
+e dependências de seu aplicativo em 
+um único objeto. Eles compartilham 
+um sistema operacional instalado 
+no servidor e são executados como 
+processos isolados de recursos.
+
+"Um container nada mais é [...] 
+do que uma caixa com vários 
+elementos para o nosso artefato 
+de software poder funcionar"
+
+ECS: o Amazon Elastic Container 
+Service (ECS) é um serviço de 
+gerenciamento de contêineres 
+altamente escalável e de alta 
+performance com suporte a 
+contêineres do Docker, o que permite 
+executar facilmente aplicações em 
+um cluster gerenciado de instâncias 
+do Amazon Elastic Compute Cloud 
+(Amazon EC2).
+
+Docker Hub
+O Docker é uma plataforma open source 
+que facilita a criação e administração 
+de ambientes isolados. Ele possibilita o 
+empacotamento de uma aplicação ou 
+ambiente dentro de um container, se 
+tornando portátil para qualquer outro host 
+que contenha o Docker instalado.
+
+ECS: o Amazon Elastic Container 
+Service (ECS) é um serviço de 
+gerenciamento de contêineres 
+altamente escalável e de alta 
+performance com suporte a 
+contêineres do Docker, o que permite 
+executar facilmente aplicações em 
+um cluster gerenciado de instâncias 
+do Amazon Elastic Compute Cloud 
+(Amazon EC2)
+
+Kubernetes
+Kubernetes é um sistema de orquestração 
+de contêineres open-source que automatiza 
+a implantação, o dimensionamento e a 
+gestão de aplicações em contêineres. Ele foi 
+originalmente projetado pelo Google 
+e agora é mantido pela Cloud Native 
+Computing Foundation.
+
+EKS: o Amazon EKS é um serviço 
+gerenciado do Kubernetes para 
+executar o Kubernetes na Nuvem 
+AWS e em datacenters on-premises. 
+Na nuvem, o Amazon EKS gerencia 
+automaticamente a disponibilidade 
+e a escalabilidade dos nós do 
+ambiente de gerenciamento do 
+Kubernetes, que são responsáveis 
+por programar contêineres, gerenciar 
+a disponibilidade das aplicações, 
+armazenar dados de cluster e outras 
+tarefas principais. 
+
+Low Code: uma plataforma de 
+desenvolvimento de baixo código ou 
+low-code fornece um ambiente de 
+desenvolvimento usado para criar 
+software de aplicativo por meio de 
+uma interface gráfica de usuário.
+
+No Code: as plataformas de 
+desenvolvimento sem código 
+permitem que programadores 
+e pessoas sem conhecimento 
+de programação criem software 
+aplicativo usando interfaces 
+gráficas e configurações em vez 
+da programação de computador 
+tradicional.
+
+Fargate: o AWS Fargate é um 
+mecanismo de computação sem 
+servidor e com pagamento conforme 
+o uso que permite a você se 
+concentrar em construir aplicações 
+sem gerenciar servidores. O AWS 
+Fargate é compatível com o Amazon 
+Elastic Container Service (ECS) e 
+com o Amazon Elastic Kubernetes 
+Service (EKS).
+
+Troubleshooting
+Troubleshooting é um diagrama indicando 
+os diversos possíveis problemas que um 
+produto, processo ou sistema operacional 
+pode apresentar, com suas causas e como 
+proceder diante de cada problema, muitas 
+vezes aplicado na reparação de produtos ou 
+processos falhados
+
+Elastic Beanstalk
+O AWS Elastic Beanstalk é um serviço 
+de orquestração oferecido pela Amazon 
+Web Services para a implantação de 
+aplicativos que orquestram vários serviços 
+da AWS, incluindo EC2, Amazon S3, 
+Simple Notification Service, CloudWatch, 
+escalonamento automático e Elastic Load 
+Balancers.
+
+6. É um serviço de gerenciamento de 
+contêineres altamente escalável e 
+de alta performance com suporte a 
+contêineres do Docker. A afirmação 
+está se referindo ao:
+R: ECS
+
+Acess Keys: em um navegador da 
+Web, uma tecla de acesso ou tecla 
+de acesso permite que um usuário 
+de computador pule imediatamente 
+para uma página da Web específica 
+por meio do teclado. Eles foram 
+introduzidos em 1999 e rapidamente 
+alcançaram suporte quase universal 
+ao navegador.
+
+Documentação AWS Beanstalk: 
+com o AWS Elastic Beanstalk, é
+possível implantar e gerenciar 
+rapidamente aplicações na Nuvem 
+AWS sem precisar se preocupar 
+com a infraestrutura que executa 
+essas aplicações. O AWS Elastic 
+Beanstalk reduz a complexidade 
+do gerenciamento sem restringir as 
+opções ou o controle. Basta fazer 
+upload da sua aplicação e o AWS 
+Elastic Beanstalk automaticamente 
+gerencia os detalhes de 
+provisionamento de capacidade, 
+balanceamento de carga, 
+escalabilidade e monitoramento da 
+integridade da aplicação
+
+AWS Marketplace
+O AWS Marketplace possibilita que parceiros 
+qualificados comercializem e vendam seu 
+software para clientes da AWS. O AWS 
+Marketplace é uma loja de software online que ajuda os clientes a localizarem, 
+comprarem e começarem imediatamente 
+a usar o software e serviços que são 
+executados na AWS. O AWS Marketplace 
+foi desenvolvido para fornecedores 
+independentes de software (ISVs), 
+revendedores de valor agregado (VARs) 
+e integradores de sistemas (SIs) que têm 
+produtos de software que desejam oferecer 
+a clientes na nuvem. Os parceiros usam o 
+AWS Marketplace para estarem disponíveis e 
+para que possam oferecer seus produtos de 
+software a clientes no mundo inteiro
+
+7. Deve ser imutável e não aceita 
+alterações. Assinale a alternativa que 
+se encaixa na afirmação:
+R: Container
+
+8. Reduz a complexidade do 
+gerenciamento sem restringir as 
+opções ou o controle. Estamos 
+falando de:
+R: AWS Elastic Benstalk
+
+9. Troubleshooting é um _____ 
+indicando os diversos possíveis 
+problemas que um produto, 
+processo ou sistema operacional 
+pode apresentar.
+R: Diagrama
+
+DevOps
+O movimento DevOps começou por 
+volta de 2007, quando comunidades de 
+desenvolvimento de software e operações de 
+TI manifestaram preocupações relacionadas 
+ao modelo de desenvolvimento de software 
+tradicional, em que os desenvolvedores que 
+escreviam os códigos trabalhavam separados 
+das operações que implementavam e 
+prestavam suporte a esses códigos. O termo 
+DevOps, uma combinação das palavras 
+desenvolvimento e operações, reflete 
+a integração dessas disciplinas em um 
+processo contínuo.
+
+Metodologias ágeis: São um 
+conjunto de práticas e valores que se 
+concentram em entregar software de 
+forma mais rápida e eficiente, com 
+maior colaboração entre os membros 
+da equipe e com a capacidade de se 
+adaptar rapidamente às mudanças 
+nos requisitos do projeto.
+
+10. Os DevOps são um conjunto de:
+R: Práticas, cultura e ferramentas
+
+Principais práticas em DevOps:
+
+- Integração contínua (CI): a prática de 
+automatizar o build e teste de todos 
+os componentes “continuamente” - de 
+tempos em tempos, sem esperar o 
+ciclo completo. Cada desenvolvedor 
+implementa e testa a sua parte.
+
+- Distribuição/implantação contínua 
+(CD): pode ser tratada também como 
+entrega contínua (continuous delivery) 
+e Implantação/publicação contínua 
+(continuous deployment).
+
+- Infraestrutura automatizada: avaliação 
+de problemas típicos no gerenciamento 
+de infraestruturas, como tarefas manuais 
+repetitivas, que possuem grandes 
+chances de erros
+
+- Automatização de tarefas de 
+gerenciamento: avaliação de 
+problemas típicos no gerenciamento de 
+infraestruturas, como tarefas manuais 
+repetitivas, que possuem grandes 
+chances de erros
+
+- Infraestrutura como código (IaC): 
+o docente cita que a IaC precisa 
+permitir aplicar as melhores práticas 
+de desenvolvimento de aplicações 
+na infraestrutura, como, por exemplo, 
+Exemplo: versionamento, code review e 
+testes automatizados.
+
+Ansible
+É uma ferramenta de gerenciamento 
+de configuração de software livre que 
+automatiza o provisionamento de software, 
+o gerenciamento de configuração e a 
+implantação de aplicativos. Ele foi projetado 
+para ser simples, eficiente e flexível e pode 
+ser usado para gerenciar sistemas Linux e 
+Windows.
+
+- Agentless: não requer instalação de 
+agentes nos hosts gerenciados, não 
+há necessidade de instalar um agente 
+inicial, pré-configurar o servidor que será 
+gerenciado pelo Ansible.
+
+- Baseado em SSH: utiliza protocolo SSH 
+seguro para comunicação com hosts 
+gerenciados.
+
+- Playbooks: são arquivos de definição de 
+automação escritos no formato YAML 
+linguagem pensada para descrever 
+tarefas, arquivos e ações necessárias
+
+- Inventário de hosts: arquivo que lista 
+todos os hosts gerenciados e suas 
+respectivas informações como grupos e 
+variáveis
+
+- Ansible Tower e Rundeck (opcional): são 
+soluções de interface de gerenciamento 
+e orquestração de automação baseadas 
+em interface web
+
+Infraestrutura como código (IaC)
+Principais benefícios da IaC
+1. Consistência: permite automatizar e 
+padronizar o processo de implantação de 
+infraestrutura.
+2. Rastreabilidade: o código fonte é
+facilmente rastreável, permitindo 
+auditorias e identificação de alterações.
+3. Reutilização: permite a reutilização 
+de componentes de infraestrutura, 
+agilizando a implantação de novos 
+ambientes.
+4. Colaboração: facilita a colaboração entre 
+equipes de desenvolvimento, operações 
+e suporte, pois há o versionamento
+
+Princípios fundamentais de IaC
+Para ter infraestrutura como código e obter 
+todos os benefícios é necessário utilizar:
+• Versionamento: O código de 
+infraestrutura é armazenado em sistemas 
+de controle de versão, como Git. Isso 
+permite rastrear alterações e colaboração 
+entre equipes.
+• Imutabilidade: As alterações na 
+infraestrutura são feitas substituindo 
+componentes, ao invés de de modificálos, reduzindo o risco de falhas e a 
+complexidade do gerenciamento.
+• Infraestrutura declarativa: A 
+infraestrutura é descrita em arquivos de 
+configuração (ex: YAML), declarando o 
+estado desejado, e as ferramentas de IaC 
+cuidam do processo de implantação.
+• Testes e validação: O código de 
+infraestrutura deve ser testado e validado 
+antes da implantação, garantindo a 
+qualidade e a conformidade com as 
+políticas de segurança e governança.
+• Automação: As etapas de 
+provisionamento, configuração e 
+gerenciamento da infraestrutura são 
+automatizadas, reduzindo o tempo de 
+implantação e a possibilidade de erros 
+humanos.
+
+Terraform
+É uma ferramenta de infraestrutura como 
+código (IAC) de código aberto que permite 
+definir e gerenciar sua infraestrutura 
+de nuvem de maneira declarativa. Com 
+o Terraform, você pode definir sua 
+infraestrutura como um conjunto de código, 
+que pode ser versionado, revisado e testado 
+como qualquer outro código de software.
+
+11. A IaC permite que:
+R: A integração frequente do código-fonte e a exeuição de teste automatizados para identificar e corrigit erros
+o mais cedo possivel
+
+Observabilidade
+O conceito de observabilidade, é a 
+capacidade de entender o estado interno 
+de um sistema, analisando sinais externos 
+produzidos pelo mesmo. Na prática, segundo 
+Marcelo, é a capacidade de monitorar as 
+aplicações. As vantagens da prática são: o 
+aumento da eficiência, a confiabilidade e, 
+também, a segurança de sistemas
+
+Para extrair os benefícios da observabilidade, 
+é preciso seguir três pilares: 
+• Métricas: indicadores quantitativos que 
+representam o estado e o desempenho 
+do sistema. 
+• Logs: Registros detalhados de eventos e 
+interações do sistema.
+• Rastreamento: Permite acompanhar 
+e compreender o caminho que uma 
+requisição percorre pelos diferentes 
+componentes de um sistema 
+(distribuído)
+
+Feedback contínuo
+o Feedback contínuo é o processo de coleta, análise e 
+aplicação de informações para melhorar a 
+qualidade e a eficiência do desenvolvimento 
+e das operações de software. Ele reduz 
+riscos e erros, permitindo ajustes rápidos 
+e melhorias no processo, além de facilitar 
+a colaboração e a comunicação entre as 
+equipes de desenvolvimento e operações.
