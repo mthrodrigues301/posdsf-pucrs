@@ -1,0 +1,260 @@
+SOA representa a arquitetura orientada a serviços. O SOA não é:
+• Não é uma tecnologia;
+• Não é um produto;
+• Não é um WebService;
+• Não é um software; 
+• Não é um framework; 
+• Não é uma metodologia; 
+• Não é uma solução de negócio.
+
+O SOA é uma abordagem arquitetural corporativa que permite a criação de serviços de negócio interoperáveis 
+que podem ser facilmente reutilizados e compartilhados entre aplicações e empresas. O SOA é uma arquitetura 
+baseada em reusabilidade, com serviços bem definidos e providos por componentes de TI. Os seus componentes possuem 
+baixo acoplamento, provendo plataforma, tecnologia e linguagens independentes. O SOA é composto por 4 pilares que 
+trazem o alicerce da arquitetura: processos alinhados com as operações de negócio, processo de desenvolvimento, processo de 
+deploy e todos os processos que envolvem o desenvolvimento daquele componente alinhado com o negócio. Alguns dos 
+benefícios do SOA, são:
+
+Desacoplamento: integrações inteligentes, flexibilidade, alinhamento com negócio; 
+
+Reutilização de serviços: produtividade, manutenibilidade; 
+
+Infraestrutura de plataforma: padronização corporativo (log, governança, entre outros).
+
+Reusabilidade: É a capacidade que um software tem de ser usado em 
+novas aplicações
+
+API Gateway: É um gerenciador de tráfego que faz interface com o serviço de back-end real 
+ou de dados e aplica políticas, autenticação e controle de acesso geral para chamadas de APIs de 
+forma a proteger dados valiosos.
+
+1. Qual das opções não é considerada benefício da arquitetura SOA
+	R: Solução de negócio
+
+API RESTful: É uma interface de programação de aplicações que está em conformidade com as restrições 
+do estilo de arquitetura REST, permitindo a interação com serviços web RESTful
+
+Two pizzas team: Criado por Jeff Bezos, fundador da Amazon, o conceito é baseado na lógica de 
+que se uma equipe que não pode ser alimentada por 2 pizzas, ela é grande demais para discutir ideias.
+
+Ciclo DevOps: A metodologia descreve abordagens que ajudam a acelerar os processos necessários para levar uma ideia do 
+desenvolvimento à implantação em um ambiente de produção no qual ela seja capaz de gerar valor para 
+o usuário. Essas ideias podem ser um novo recurso de software, uma solicitação de aprimoramento ou 
+uma correção de bug, entre outros.
+
+LGPD: A Lei Geral de Proteção de Dados tem como principal objetivo proteger os direitos fundamentais de 
+liberdade e de privacidade e o livre desenvolvimento da personalidade da pessoa natural
+
+IaaS: A IaaS é um dos quatro tipos de serviços de nuvem, juntamente com o SaaS (software como 
+serviço), a PaaS (plataforma como serviço) e a tecnologia sem servidor.
+
+A Iaas tem com características:
+• Computação de infraestrutura sob 
+demanda;
+• É um dos 3 modelos de serviços da 
+computação em nuvem;
+
+A IaaS provê:
+• Servidores: computação e máquinas;
+• Storage;
+• Rede;
+• Sistemas Operacionais
+
+IaaS pode ser obtida em:
+
+Nuvem pública: é considerada nuvem pública uma infraestrutura que consiste de recursos compartilhados, liberados sob 
+demanda, baseado na internet;
+
+Nuvem privada: incorpora a maioria das features de uma nuvem pública como virtualização porém fica dentro de uma 
+rede privada;
+
+Nuvem híbrida: mistura de uma nuvem privada com uma nuvem pública, geralmente conectadas através de um 
+túnel VPN
+
+Lock-in: É usado para se referir a um cenário em que você adquire uma solução tecnológica e depois 
+se vê impossibilitado de trocá-la por outra, estando trancado dentro dela. É comum que haja um profissional 
+dedicado apenas a estudar as soluções tecnológicas do mercado.
+
+Container: Tem o objetivo de segregar e facilitar a portabilidade de aplicações em diferentes 
+ambientes. Um container contém um conjunto de processos que são executados a partir de uma imagem. 
+Os containers isolam os processos da aplicação do restante do sistema operacional.
+
+Definição CNCF:
+• Containerizado;
+• Gerenciado dinamicamente.
+• Automação;
+• Registro e descoberta;
+• Rastreamento distribuído/
+observabilidade.
+
+Cloud:
+• Elasticidade;
+• Modelo on-demand.
+
+Definição Pivotal:
+• Processos;
+• Ferramentas;
+• Cultura.
+
+Entrega contínua:
+• Automação.
+
+Microsserviços:
+• Automação;
+• Registro e Descoberta;
+• Rastreamento distribuído/
+observabilidade;
+• Anti-fragilidade / Engenharia de caos
+
+2. Assinale a alternativa incorreta correspondente aos problemas da arquitetura monolítica
+	R: Escalabilidade do sistema é ilimitada
+
+Kubernetes: É um sistema de orquestração de contêineres open-source que automatiza a 
+implantação, o dimensionamento e a gestão de aplicações em contêineres.
+
+PaaS: Plataform as a Service
+
+3. Alguns dos benefícios do PaaS, são:
+	R: 
+		• Infraestrutura escalável e com alta disponibilidade
+		• Alta Produtividade no desenvolvimento e manutenção
+		• Confiabilidade e diminuição do tempo de entrega
+		• Todas as alternativas estão corretas.
+		
+DDD: Domain Driven Design
+O principal conceito do DDD é o modelo. O modelo expressa o domínio e negócio do cliente e pode ser criado utilizando 
+desenhos, fluxogramas, diagramas, entre outros. O importante é que ele represente o negócio do cliente. Como principais 
+componentes do DDD, podemos listar: a linguagem onipresente, a arquitetura em camadas e os padrões.
+
+4. Qual é o principal conceito da abordagem Domain drive design?
+	R: Modelo
+
+Maturidade com Cloud Native
+Cloud ready (nível 0): operado em infraestrutura virtualizada. Criação das instâncias ou imagem por script
+
+Cloud friendly (nível 1): composto por serviços vagamente acoplados, os serviços podem ser descobertos pelo nome. 
+Os componentes são projetados para padrões de nuvem. A computação e o armazenamento são separados;
+
+Cloud resilient (nível 2): estado é isolado em um mínimo de serviços, não afetado por falhas de serviço dependentes. A 
+infraestrutura é independente;
+
+Cloud native (nível 3): transferível entre provedores de infraestrutura em tempo de execução e sem interrupção do serviço. 
+dimensionar dentro/fora automaticamente com base em estímulos de requisições e volumetria.
+
+GRPC: Conhecido como Google Remote Procedure Call, a técnica  um sistema de código aberto de 
+chamada de procedimento remoto desenvolvido inicialmente no Google em 2015
+
+5. Quais os 3 pilares do Domain-Driven Design?
+	R: Linguagem ubíqua, bounded contexts e context maps
+
+Message broker: É um software que possibilita que aplicativos, sistemas e serviços se comuniquem e troquem 
+informações. O message broker faz isso convertendo mensagens entre protocolos de mensagens formais.
+
+Dispare e esqueça: O modo disparar e esquecer pode ser ativado somente quando os aplicativos usam um pool 
+de conexão. Se um aplicativo ativar e esquecer para uma única conexão, a configuração do modo será ignorada 
+e a inserção será executada em um único encadeamento.
+
+Orquestração: A orquestração ajuda a gerenciar fluxos de trabalho e tarefas complexas com mais 
+facilidade. Ela é compatível com uma abordagem de DevOps e ajuda a sua equipe a implantar aplicações mais 
+rapidamente.
+
+Coreografia: É uma técnica para composição de serviços de forma distribuída e descentralizada, 
+vista sob uma perspectiva global. A coreografia é o resultado do conhecimento e comportamento 
+coletivo espalhado pelo sistema.
+
+Saga: É uma maneira de gerenciar a consistência de dados entre microsserviços em cenários de 
+transação distribuída. Uma saga é uma sequência de transações que atualiza cada serviço e publica uma 
+mensagem ou evento para disparar a próxima etapa de transação.
+
+6. O que define um domínio?
+	R: 
+		• O dominio é dado pelas atividades realizadas pela pessoa usuária.
+		• O dominio pode ser complexo e possuir subdivisões dentro dele tambem de grande complexidade
+		• O dominio é uma linguagem com um nivel mais alto de abstraçvão otimizado para uma classe específica de problemas
+		• Todas as alternativas estão corretas.
+
+Server-side: Também conhecido por back-end, é um termo usado para designar operações que, em um contexto cliente-servidor, são feitas 
+no servidor, não no cliente.
+
+Pirâmide de teste: É uma forma gráfica de demonstrar de maneira simples os tipos de testes, seus níveis, 
+velocidade de implementação e complexidade dos testes realizados.
+
+Flyway: É uma ferramenta que permite o versionamento e gerenciamento do Banco de 
+dados. Com ele podemos controlar a evolução dos elementos que compõem uma determinada base de 
+dados, sendo eles tabelas, sequences, views, entre outros
+
+7. Sobre as comunicações síncrona e assíncrona, é incorreto afirmar que:
+	R: O balanceador de carga verifica o nível e o tratamento de erros pode ser pelo status da URL.
+
+Pub/Sub: É um serviço de mensagens em tempo real totalmente gerenciado que permite o envio e o recebimento de mensagens entre aplicativos 
+independentes.
+
+Multicast: É uma técnica de transmissão de um pacote de dados para múltiplos destinos ao mesmo 
+tempo. Durante uma transmissão, o transmissor envia os pacotes de dados somente uma vez, ficando a 
+cargo dos receptores captarem esta transmissão e reproduzi-la
+
+Message Broker: O message broker é um sistema especializado em recepção e envio de mensagens. Ele desconhece detalhes 
+sobre os produtores e consumidores. 
+
+AMQP: É um protocolo de camada de aplicação padrão aberto para Message Oriented Middleware. 
+As características definidoras do AMQP são: orientação, mensagem, roteamento, confiabilidade e 
+segurança
+
+Dotenv: A ferramenta é utilizada para orquestrar as variáveis ambiente de um projeto. O nome dela sugere 
+o arquivo em que as informações ficarão, (dot) que é ponto em inglês acrescido de (env), então temos o 
+arquivo (.env) que é composto de chaves e valores.
+
+Dotenv: A ferramenta é utilizada para orquestrar as variáveis ambiente de um projeto. O nome dela sugere 
+o arquivo em que as informações ficarão, (dot) que é ponto em inglês acrescido de (env), então temos o 
+arquivo (.env) que é composto de chaves e valores.
+
+Tipos de garantia de entrega de mensagens: 
+
+A primeira política de garantia de entregas é no máximo uma vez. Most-once delivery recebe uma mensagem e tenta 
+entregar essa mensagem (no máximo uma vez) e, em caso de erro, ela é perdida. Nenhum estado é mantido, portanto é a 
+implementação mais simples e rápida.
+
+Já na entrega que ocorre ao menos uma vez, em caso de erro ou limite de tempo, ela será entregue novamente. 
+Há necessidade de manter o estado no componente de entrega, podendo duplicar o processamento ou resultado, 
+por isso é essencial que o tratamento de mensagens seja idempotente, isto é, não deixe o estado do sistema inconsistente se 
+executado mais de uma vez.
+
+Na política exatamente uma vez, há a garantia de que cada mensagem seja entregue uma única vez, mesmo que haja 
+falhas ou limite de tempo. É o mecanismo mais complexo, pois exige estado em ambos os componentes de entrega 
+e recepção. O componente de envio deve manter estado para retransmitir mensagens falhadas e o de recepção deve 
+manter estado para ignorar mensagens que já tenham sido previamente enviadas. 
+
+8. Sobre fila de mensagens, é correto afirmar que:
+	R:
+		• Disponibilizam recursos de comunicação e coordenação para esses aplicativos distribuidos
+		• Podem simplificar a codificação de aplicativos, aumentando a condibilidade e a escalabilidade
+		• É uma estrutura em que cada mensagem produzida por um produtor é entregue a um unico consumidor
+		• Todas as alternativas estão corretas.
+
+Caixa de saída transacional: É um padrão que garante que os eventos são guardados num arquivo de dados antes de serem enviados para 
+um mediador de mensagens. Se o objeto empresarial e os eventos correspondentes forem guardados na mesma transação de base de dados, 
+é garantido que não serão perdidos dados. Tudo será consolidado ou tudo será revertido se existir um erro
+
+Serverless: As aplicações serverless necessitam de um servidor para rodar, porém elas não sabem qual servidor vai rodá-las. 
+O conceito de serverless é geralmente relacionado ao FaaS (Function as a service), mas o conceito pode ser 
+considerado mais amplo. Os serviços gerenciados (bases de dados, buscas, mensageria) também podem ser 
+considerados serverless. 
+
+Log4shell: É uma vulnerabilidade de dia zero no Log4j, uma estrutura de registro Java popular, envolvendo 
+execução arbitrária de código. 
+
+Knative: É uma plataforma com diversos componentes de construção baseados no Kubernetes. Ela apresenta 
+um conjunto de elementos de middleware, os quais estão ligados ao desenvolvimento de aplicativos 
+relacionados às tecnologias atuais. Uma das principais características da plataforma é que ela permite a atuação 
+dentro de um contêiner, o que favorece a autenticação e a segurança da nuvem.
+
+9. O que é versionamento?
+	R: É o processo de atribuir um nome único ou uma numeração única para indicar o estado de um programa de computador.
+	
+Pod: É uma abstração do Kubernetes que representa um grupo de um ou mais contêineres de aplicativos (como Docker) e alguns recursos 
+compartilhados para esses contêineres.
+
+10. O que é FaaS?
+	R: É um serviço de back-end sem servidor que permite aos desenvolvedores escrever peças modulares de código em tempo real
+ que podem ser executadas em respostas a determinados eventos.
+
