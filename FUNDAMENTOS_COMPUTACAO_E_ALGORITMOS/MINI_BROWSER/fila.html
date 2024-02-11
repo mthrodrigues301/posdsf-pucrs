@@ -1,0 +1,53 @@
+<script>
+    console.log('[Fila/Queue]');
+    // Qualquer tipo de dado
+    // Uma atrás da outra, ordem importa
+    // Quem entra primeiro, sai primeiro
+    var fila = [
+        'scripts.js',
+        'style.css',
+        'imagem.png'
+    ];
+    // Adiciona Alguém na fila
+    fila.push('doguinho.png');
+    // Remove O primeiro da fila
+    fila.shift();
+    // =======================
+    // Receita pra criar filas
+    // =======================
+    // - enqueue
+    // - dequeue
+
+    class Queue {
+        constructor() {
+            this.data = [];
+        }
+
+        print() {
+            console.log(this.data);
+        }
+
+        enqueue(item) {
+            this.data.push(item);
+        }
+
+        dequeue() {
+            this.data.shift();
+        }
+
+    }
+
+    // Design do código First
+    var requests = new Queue();
+    // Open Closed
+    // Open: Aberto para extensão
+    // Closed: Fechado para modificações
+    requests.enqueue('scripts.js');
+    requests.print();
+    requests.dequeue();
+    requests.enqueue('style.css');
+    requests.enqueue('imagem.png');
+    requests.enqueue('doguinho.png');
+    requests.print();
+
+</script>
