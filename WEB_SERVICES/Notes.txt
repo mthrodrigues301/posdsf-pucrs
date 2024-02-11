@@ -1,0 +1,122 @@
+COBOL: Common Business Oriented Language é uma linguagem de programação orientada para o 
+processamento de banco de dados comerciais.
+
+ARPAnet: Foi uma rede de computadores construída em 1969 para transmissão de dados 
+militares sigilosos e interligação dos departamentos de pesquisa nos Estados Unidos
+
+PING: É utilizado para testar a conectividade entre duas máquinas. 
+Para identificar problemas você pode realizar o comando Ping para fazer uma solicitação de ICMP para um 
+domínio ou endereço de IP
+
+
+1. O que é TCP/IP?
+	R: É um conjunto de protocolos de comunicação entre computadores
+em rede.
+
+MAN - Rede de Área Metropolitana, é um escopo de rede intermediário entre 
+uma LAN e uma WAN. Trata-se de uma rede localizada em uma área geográfica 
+confinada e bem definida, de tamanho médio, como por exemplo em um 
+município ou região metropolitana
+
+WAN - Em uma Wide Area Network, a comunicação se dá em uma distância relativamente longa. 
+Geralmente podemos usar uma WAN para conectar uma LAN de um local a outra LAN 
+em um local remoto, que pode estar localizada em um prédio vizinho ou do outro lado do planeta.
+
+HTTP - O Protocolo de comunicação de hipertexto é utilizado para sistemas de informação de 
+hipermídia, distribuídos e colaborativos. É a base para a comunicação de dados da 
+World Wide Web. O S em HTTPS, refere-se a camada adicional de segurança, onde permite que os dados sejam transmitidos 
+por meio de uma conexão criptografada.
+
+Empresas Unicorn: Uma empresa unicórnio é aquela que conseguiu ser 
+avaliada em 1 bilhão de dólares antes de abrir seu capital em bolsas de valores
+
+2. Qual foi a primeira rede operacional de computadores?
+	R: ArpaNET
+	
+UDDI: É um framework de plataforma independente para descrever e integrar os serviços de negócios 
+usando a Internet, possibilitando assim uma exposição controlada dos serviços da empresa.
+
+3. Qual é a rede de comunicação que se dá em uma distância relativamente longa?
+	R: WAN
+
+Envelope do SOAP: Ele funciona como um recipiente de todos os outros elementos da mensagem, 
+possivelmente o cabeçalho e o corpo, assim como os namespaces de cada um.
+
+REST: A Transferência Representacional de Estado é um estilo de arquitetura de software que 
+define um conjunto de restrições a serem usadas para a criação de web services. 
+
+4. Qual é uma das funcionalidades do protocolo HTTP?
+	R: É a base para a comunicação de dados da World Wide Web
+
+JSON: É um arquivo que contém uma série de dados estruturados 
+em formato texto e é utilizado para transferir informações entre sistemas.
+
+WebStorm: É um ambiente de desenvolvimento integrado para JavaScript e tecnologias relacionadas. 
+Como outros IDEs da JetBrains, ele automatiza o trabalho de rotina.
+
+FaaS: A Função como Serviço é um tipo de serviço de Cloud Computing 
+que permite que os desenvolvedores criem, executem e gerenciem pacotes 
+de aplicações como funções, sem a necessidade de se preocupar com a manutenção da infraestrutura.
+
+5. Marque a alternativa correta sobre empresas Unicorn:
+	R: São aqueles empreendimentos que possuem potencial de crescimento e necessitam
+de investimentos para expandir.
+
+WSDL: Trata-se de um documento escrito em XML que além de descrever o serviço, especifica como 
+acessá-lo e quais as operações ou métodos disponíveis.
+
+File System do Node.js: Para usar o módulo fs (File System) você deve 
+usar o comando require (‘fs’), sendo que todos os métodos possuem versões assíncronas e síncronas.
+
+6. Os conceitos primordiais que definem as arquitetura de serviços, tem como características:
+	R: Flexibilidade, manutenção e alinhamento com o negócio.
+
+UTF8: É a codificação de caracteres mais comum da World Wide Web. UTF-8 é compatível com 
+versões anteriores do ASCII e pode representar qualquer caractere Unicode padrão.
+
+Nodemon: Esse módulo é um utilitário que irá monitorar todas 
+as alterações nos arquivos de sua aplicação e reiniciar automaticamente o servidor quando for necessário
+
+CRUD: É uma forma simplificada de interagir com os dados em um servidor, ganhando notoriedade pela 
+simplicidade nas operações realizadas no padrão RESTful.
+
+SDK: Oferece suporte para a consideração do ciclo de vida da API, 
+como gerenciamento de credenciais, novas tentativas, marshaling de dados e serialização. 
+
+CloudWatch: Coleta e visualiza logs, métricas e dados de eventos em tempo real em painéis automatizados 
+para otimizar sua infraestrutura e manutenção de aplicações
+
+IAM: É possível especificar quem pode acessar quais serviços e recursos da 
+AWS e em que condições. 
+
+7. Assinale 3 recursos de AWS:
+	R: Lambda, DynamoDB e API gateway
+	
+W3C: É um consórcio internacional no qual organizações filiadas, uma equipe em tempo integral e o público 
+trabalham juntos para desenvolver padrões para a Web.
+
+URI: O principal propósito desta identificação é permitir a interação com representações do recurso 
+através de uma rede, usando protocolos específicos. 
+
+Metadados: São dados que servem para descrever a estrutura do conjunto de um dado principal, 
+evidenciando a utilidade das informações dos dados.
+
+8. Quais são os principais serviços de armazenamento em nuvem citados ao longo das aulas?
+	
+	1. Dropbox, Cloud Drive e Google Drive
+	2. Microsoft Azure, Google Cloud e Mega
+	3. iCloud, Copy e MidiaFire
+	
+	R: Todas as alternativas estao incorretas
+	
+Unicode: Fornece um único conjunto de caracteres, contendo um número pequeno esquemas de codificação 
+conhecidos da máquina para adequar as necessidades de aplicativos e protocolos existentes.
+
+9. Algumas das operações que podem ser realizadas através do protocolo HTTP?
+	R: DELETE, POST, GET e TRACE
+	
+Payload: É a parte dos dados transmitidos que é a mensagem real pretendida. No contexto de um vírus 
+ou worm de computador, a carga útil é a parte do malware que executa uma ação maliciosa.
+	
+10. Assinale o exemplo correto sobre URI de elemento:
+	R: PUT substitui o membro especifico da coleçào atraves do GET.
