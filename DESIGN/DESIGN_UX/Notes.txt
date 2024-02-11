@@ -1,0 +1,173 @@
+Gestalt: É um princípio do campo de estudo da psicologia, que envolve 
+a forma como os seres humanos percebem o mundo à sua volta. A percepção é uma combinação entre 
+a captação de estímulos sensoriais através dos nossos cinco sentidos: 
+visão, audição, tato, olfato e paladar.
+
+As 10 heurísticas de Nielsen, são:
+	• Visibilidade do status do sistema;
+	• Compatibilidade entre o sistema e o 
+	mundo real;
+	• Controle e liberdade para o usuário;
+	• Consistência e padronização;
+	• Prevenção de erros;
+	• Reconhecimento em vez de 
+	memorização;
+	• Flexibilidade e eficiência de uso;
+	• Estética e design minimalista;
+	• Ajude o usuário a reconhecer, 
+	diagnosticar e recuperar-se de erros;
+	• Ajuda e documentação.
+
+As 8 regras de ouro de Shneiderman, 
+são:
+	• Consistência;
+	• Atalhos;
+	• Resposta ao usuário (feedback);
+	• Diálogos e conclusão;
+	• Prevenção e tratamento de erros;
+	• Reversibilidade das ações;
+	• Controle para o usuário;
+	• Redução da carga de memória.
+
+Os 7 princípios fundamentais de design 
+de Norman, são:
+	• Descoberta (discoverability);
+	• Feedback;
+	• Modelos conceituais;
+	• Affordance;
+	• Significantes;
+	• Mapeamento;
+	• Restrições (constraints).
+	
+1. Qual das características a seguir não é um critério de qualidade da IHC?
+	R: Feedback, que permite o usuário dentro da própria interface relatar a experiência
+com o sistema
+
+Orientação a objeto: É o processo de usar uma metodologia orientada 
+a objetos para projetar um sistema ou aplicativo de computação. Essa 
+técnica permite a implementação de uma solução de software baseada 
+nos conceitos de objetos.
+
+2. Sobre coleta de dados é correto afirmar:
+	R: Fazer um estudo piloto é um ponto principal da coleta de dados
+	
+Wireframe: É um protótipo usado em design de interface para sugerir a estrutura de um sítio web e 
+relacionamentos entre suas páginas. Um wireframe web é uma ilustração semelhante do layout de elementos 
+fundamentais na interface
+
+Mockup: É um modelo em escala ou de tamanho real de um projeto ou dispositivo, usado para ensino, 
+demonstração, avaliação de design, promoção e outros propósitos.
+
+Figma: É um editor gráfico de vetor e prototipagem de projetos de design baseado principalmente no navegador 
+web, com ferramentas offline adicionais para aplicações desktop para GNU/Linux, macOS e Windows.
+
+Startup: É uma empresa que tem o objetivo de crescer de maneira 
+agressiva. As startups costumam oferecer produtos ou serviços inovadores, visando solucionar uma 
+dor ou trazendo inovação incremental a mercadorias que já existem.
+
+Software embarcado: É um programa de computador criado para controlar 
+máquinas ou dispositivos que normalmente não são pensados como computadores. Ele normalmente 
+funciona apenas para o hardware em que é executado e possui limitações de tempo e memória.
+
+3. Qual das opções a seguir não pode ser considerada um princípio do design de acordo com a aula?
+	R: Diagramação
+	
+CX: Se refere à forma como uma empresa interage com os clientes em cada ponto da jornada, seja em 
+compras, marketing, vendas, serviço de atendimento ao cliente ou em outras áreas. Em grande parte, é a 
+soma total de todas as interações de um cliente com sua marca
+
+Baseline: É a linha de base do rojeto, que significa um ponto de 
+partida muito bem definido, ou seja, uma referência composta pelos itens escopo do projeto, cronograma e 
+orçamento.
+
+Portas de Norman: É uma porta mal projetada, com falta de recursos que confunde as pessoas e é difícil de 
+usar. Geralmente, essas portas têm maçanetas idênticas em ambos os lados, tornando confuso qual ação 
+deve ser executada em ambos os lados.
+
+Eye tracking: Utiliza luz quase infravermelha invisível e câmeras de 
+alta definição para projetar luz no olho e gravar a direção que ele reflete na córnea. Algoritmos avançados são 
+então usados para calcular a posição do olho e determinar exatamente onde ele está focado
+
+5. A respeito da IHC, qual afirmação está incorreta?
+	R: É definida em geral como uma junção de três áreas: design, ciência da computação e 
+psicologia positiva.
+
+Switch: É uma estrutura de condição que define o código a ser executado com base em uma comparação de 
+valores.
+
+IF: Realiza diferentes ações dependendo se a condição seja verdadeira ou falsa, em que 
+a expressão é processada e transformada em um valor booleano.
+
+Tooltip: É uma explicação breve que aparecem na tela quando você posiciona o cursor do mouse sobre 
+algum ícone ou gráfico, explicando qual a função dele.
+
+6. Com a tecnologia do Eye Tracking, foi possível mapear zonas de interesse dos clientes ao 
+observarem um Banner. Qual das afirmações a seguir é compatível com o que foi observado utilizando 
+essa tecnologia
+	R: Os clientes se mantêm mais concentrados na região que acreditam que a informação
+que ele procura está.
+
+SGP: Foi desenvolvido com a finalidade de ser um sistema de armazenamento de dados referentes 
+a atuação da Promotoria de Justiça e um sistema de arquivamento dos documentos eletrônicos produzidos 
+a fim de criar um banco de dados consolidado abarcando toda a produção ministerial.
+
+Registros heterogêneos: Constituem um recurso importante para a organização dos dados utilizados 
+devido à possibilidade de tratar um grupo de valores como uma única variável similar às estruturas 
+homogêneas.
+
+7. Qual das opções a seguir está incorreta sobre as diretrizes para pesquisas IHC?
+	R: O participante tem o direito e a liberdade de se recusar a participar ou retirar
+seu consentimento e abandonar os estudos até a 2 fase da pesquisa.
+
+Bitmaps: São indicados para representação de imagens com alto nível de detalhes. Os arquivos bitmaps 
+por serem formados pixel a pixel, se tiverem seu tamanho aumentado, sofrerão distorções consideráveis, pois 
+cada ponto é transformado em blocos maiores para compor a imagem maior
+
+Anti-aliasing: A função trabalha com a intensidade das cores das bordas de maneira sutil, gerando um efeito 
+degradê que, quando observado pelo olho humano, passa a impressão de linhas diagonais perfeitas
+
+Layers: São camadas transparentes e superpostas, nas quais se organizam e se agrupam diferentes tipos de 
+informações de desenho
+
+Dropdown: São botões com alternância de visibilidade de listas de links e outras coisas. Conseguem ser 
+interativos graças a sua construção que foi feita com o plugin JavaScript dropdown
+
+Principios do Design 
+• Visibilidade;
+• Feedback;
+• Restrições;
+• Consistência;
+• Affordance
+
+8. Sobre as pesquisas com usuários marque a alternativa correta:
+	R: A categorização de usuários em determinados perfis destaca algumas características
+e abastrai outras.
+
+Stakeholder: É um dos termos utilizados em diversas áreas como gestão de projetos, comunicação 
+social administração e arquitetura de software referente às partes interessadas que devem estar de 
+acordo com as práticas de governança corporativa executadas pela empresa.
+
+9. Se mantido, o problema provavelmente impedirá que o usuário realize a tarefa.
+Marque a alternativa correta sobre os graus de severidade:
+	R: Problema cosmético: não precisa ser consertado a menos que haja tempo no
+cronograma do projeto.
+
+Picasa: Foi um programa de computador que realizava a edição digital de fotografias e com função 
+principal de organizar a coleção de fotos digitais presentes no computador, de forma a facilitar a 
+procura por fotografias específicas por parte do usuário do software
+
+10. Qual das afirmativas a seguir não é verdadeira sobre revelação progressiva
+e frequência de uso?
+	R: A chance de o usuário perder o interesse aumenta quando ele se esquece como utilizar
+o produto.
+
+CHI: A Conferência ACM CHI é a principal conferência internacional de Interação Humano-Computador. 
+Reúne anualmente pesquisadores e profissionais de todo o mundo e de diversas culturas, origens e 
+posicionamentos, que têm como objetivo primordial tornar o mundo um lugar melhor com tecnologias 
+digitais interativas.
+
+11. A “Porta de Norman” É uma porta mal projetada, com falta de recursos que confunde as pessoas e é difícil 
+de usar. Geralmente, essas portas têm maçanetas idênticas em ambos os lados, tornando confuso qual 
+ação deve ser executada em ambos os lados. Sabendo disso, qual característica 
+não representa um dos 7 princípios fundamentais de design de Norman
+	R: Signicantes e estético

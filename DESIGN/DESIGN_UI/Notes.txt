@@ -1,0 +1,40 @@
+O que é um protótipo?
+	- Protótipo é a simulação de um produto finalizado, na ideia de imitar o produto real.
+	Mas afinal, por que fazer protótipos? O único motivo é fazer testes:
+	- Usabilidade
+	- Possibilidade
+	- Visibilidade
+	
+Protótipo, mockup e wireframes: qual é a diferença?
+	- Mockup: Mostra como o produto será. Ou seja, ele possui alta fidelidade visual, mas ainda 
+assim não é clicável, testável ou manipulável. 
+	- Wireframe: Representa principalmente a estrutura de um produto estatico
+	
+Ao fazer um protótipo
+	- Iteraja: escolha um método, experimenete algumas coisas, faça testes, revise e teste 
+novamente. Adicione coisas na página, como variações de menus, conteúdo, dados, etc.
+	- Teste: apresente aos usuários e veja suas 
+reações. 
+	- Aprenda: entenda com esses testes o que eles gostaram ou não, o que conseguiram 
+usar e o que tiveram dificuldade, o que entenderam e não entenderam.
+	- Melhore: Pegue tudo aquilo que aprendeu e melhore.
+	- Melhore: Pegue tudo aquilo que aprendeu e melhore.
+	
+Tipos de protótipo,
+	- Baixa fidelidade: podem ser esboçados à mão (ou quadro branco), em papel ou em 
+computador. Interação do usuário limitada (ou nenhum se desenhado à mão), mais rápido de 
+criar;
+		- Beneficios:
+			- Evita que em etapas mais avançadas seja necessário fazer grandes mudanças.
+			- Rapido de construir.
+			- É um esforço colaborativo.
+		- Contras:
+			- Os usuários podem ficar confusos sobre o que deveria funcionar e o que não está
+			- Limita o usuário a visualizar o que é esperado
+pronto.
+	- Média fidelidade: meio termo entre alta e baixa fidelidade. Mais conteúdo e detalhes da 
+interface do usuário são progressivamente adicionados com base sobre as aprendizagens 
+da iteração do teste lo-fi.
+	- Alta fidelidade: realista (clique, toque, deslize, etc.), interações do usuário 
+que funcionam em vários dispositivos. Representação exata da IU e sua interatividade; simulação verdadeira de forma 
+e função; como usar a coisa real.
