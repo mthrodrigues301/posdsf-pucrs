@@ -1,0 +1,8 @@
+CWE TOP 25 Most Dangerous Software Errors
+https://www.sans.org/top25-software-errors/ 
+
+OWASP 
+https://owasp.org/ 
+
+JUnit 5 + GitHub
+https://github.com/junit-team/junit5/ 
